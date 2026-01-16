@@ -1,6 +1,6 @@
 # Git course
 happy pongal
 
-# i changed this
+# i changed the code
 
-# i changed this is 3
+# changes in 
